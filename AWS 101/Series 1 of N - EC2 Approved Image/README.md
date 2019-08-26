@@ -32,8 +32,8 @@
     * **Using Console**
       * Go to "EC2 Dashboard", Select "Instances" tab and then select a specific instance
       * In the "Description" tab, click on AMI ID link and select the AMI ID from the pop up. Copy the AMI ID.
-        ![How to get the AMI ID of an Instance](https://github.com/naeemmohd/aws/blob/master/AWS%20101/Series%201%20of%20N%20-%20EC2/images/getAMIID.PNG)
+        ![How to get the AMI ID of an Instance](https://github.com/naeemmohd/aws/blob/master/AWS%20101/Series%201%20of%20N%20-%20EC2%20Approved%20Image/images/getAMIID.PNG)
       * Now go to AMI tab is Images section of EC2 Dashboard, and
       * Select "Owned by me" from the drop down and filter by AMIID. Paste the AMI ID for the filter.
-       ![How to check if the image is owned by Self](https://github.com/naeemmohd/aws/blob/master/AWS%20101/Series%201%20of%20N%20-%20EC2/images/checkValidAMIID.PNG)
+       ![How to check if the image is owned by Self](https://github.com/naeemmohd/aws/blob/master/AWS%20101/Series%201%20of%20N%20-%20EC2%20Approved%20Image/images/checkValidAMIID.PNG)
       * If no rows are returned it means the images are either from Market Place or Amazon and are not "Self" customized approved valid image.
